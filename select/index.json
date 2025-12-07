@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Tot Musica",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T16:10:02.517958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tot Musica",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_Tot_Musica_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tot Musica",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_Tot_Musica_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tot Musica (From \"One Piece Film: Red\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/03_Tot_Musica_(From__One_Piece_Film__Red_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tot Musica",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_Tot_Musica_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tot Musica - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/05_Tot_Musica_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tot Musica (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/06_Tot_Musica_(Russian_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tot Musica",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/07_Tot_Musica_Ado.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tot Musica",
+      "artist": "Hoshi",
+      "has_synced": true,
+      "path": "select/08_Tot_Musica_Hoshi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tot Musica",
+      "artist": "二口魔菜 Futakuchi Mana",
+      "has_synced": true,
+      "path": "select/09_Tot_Musica_二口魔菜_Futakuchi_Mana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tot Musica",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_Tot_Musica_Ado.txt"
+    }
+  ]
+}
